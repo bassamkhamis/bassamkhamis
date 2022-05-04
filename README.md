@@ -8,8 +8,8 @@ I'm Bassam from in Egypt, I'm in senior student at Alexandria University faculty
 * ❤ C programming
 * 😎 Embedded C
 * 😆 python
-*📸 OpenCV
-* 
+* 📸 OpenCV
+ 
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning dive learn Embedded System 
