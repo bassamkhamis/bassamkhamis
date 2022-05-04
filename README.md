@@ -5,5 +5,5 @@ I'm Bassam from in Egypt, I'm in senior student at Alexandria University faculty
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bassamkhamis)
-[![Reactjs](https://github-readme-stats.vercel.app/api/pin/?username=bassamkhamis&repo=react&show_owner=true)](https://github.com/facebook/react)
+
 
