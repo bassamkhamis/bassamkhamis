@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Bassam
 #### senior student year
-![Embedded Software Engineering ](https://github.com/bassamkhamis/bassamkhamis/blob/main/Screenshot%202022-05-04%20235549.png)
+![Embedded Software Engineering ](https://github.com/bassamkhamis/bassamkhamis/blob/main/AMITkit.png)
 
 I'm Bassam from in Egypt, I'm in senior student at Alexandria University faculty of Engineering Electrical department, And I do content on Design and Development Embedded system engineering,And I wrote baremetal programming for microcontroller and Design software drivers, I really enjoy learning programming language Like python and C++, As well as work on OpenCV and I did some project based on Image processing
 
