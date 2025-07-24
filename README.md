@@ -1,13 +1,15 @@
 ### Hi there 👋, my name is Bassam
-# Embedded Software Engineer
+# Software Software Engineer
 
 
-I'm Bassam from in Egypt, I graduated from Alexandria University faculty of Engineering Electrical department, And I do content on Design and Development Embedded system engineering,And I wrote baremetal programming for microcontroller and Design software drivers, I really enjoy learning programming language Like python and C++, As well as work on OpenCV and I did some project based on Image processing
+I'm Bassam from Egypt. I graduated from Alexandria University, Faculty of Engineering, Electrical Department. I create content focused on design and development using C++, QML, Qt, and Embedded Linux.
 
 ## Skills: 
-* ❤ C programming
-* 😎 Embedded C
-* 😆 python
+* C/C++
+* QML
+* Qt
+* Embedded C
+* python
 * 📸 OpenCV
  
 
