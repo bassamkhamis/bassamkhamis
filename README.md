@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bassam
-# Software Software Engineer
+# Software Engineer
 
 
 I'm Bassam from Egypt. I graduated from Alexandria University, Faculty of Engineering, Electrical Department. I create content focused on design and development using C++, QML, Qt, and Embedded Linux.
